@@ -1,7 +1,7 @@
 # Corona Wars Game
 ![LICENSE](https://img.shields.io/github/license/dsouzajoy/corona-wars-game)
 ![REPO STATUS](https://img.shields.io/badge/repo%20status-Active-brightgreen)
-![REPO STATUS](https://img.shields.io/github/issues/dsouzajoy/corona-wars-game)
+[![REPO STATUS](https://img.shields.io/github/issues/dsouzajoy/corona-wars-game)](https://github.com/dsouzajoy/corona-wars-game/issues/1)
 
 A simple HTML Canvas based game with the corona theme. There are new features to be added like powerups.
 It would be great if you could contribute to this project.
